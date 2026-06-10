@@ -1,0 +1,6 @@
+com\tops\campusbot\service\AiIntegrationService.class
+com\tops\campusbot\CampusBotApplication.class
+com\tops\campusbot\dto\ChatRequest.class
+com\tops\campusbot\controller\ChatController.class
+com\tops\campusbot\dto\ChatResponse.class
+com\tops\campusbot\exception\GlobalExceptionHandler.class
